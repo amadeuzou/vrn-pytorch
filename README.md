@@ -35,7 +35,7 @@ to compute the error for the paper.
 
 ``` html
 
-链接: https://pan.baidu.com/s/1bqQSxQZ 密码: mqs9
+URL[链接]: [https://pan.baidu.com/s/1bqQSxQZ](https://pan.baidu.com/s/1bqQSxQZ) PWD[密码]: mqs9
 
 ```
 
